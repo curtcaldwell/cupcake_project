@@ -80,6 +80,14 @@ a:hover {
  color: gray;
 }
 
+.about p {
+  font: baskerville;
+  text-align: center;
+  font-size: 25px;
+  color: gray;
+
+}
+
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 800px) {
     .column {
