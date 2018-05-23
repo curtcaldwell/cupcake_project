@@ -12,10 +12,12 @@ body {
     text-align: center;
     padding: 32px;
     color: pink;
-    font-size: 40px;
+    font-size: 45px;
     font-weight: lighter;
 }
-
+.header p {
+    font-size: 60px;
+  }
 .header:hover {
   color: gray;
 }
@@ -39,6 +41,8 @@ body {
 .column img {
     margin-top: 8px;
     vertical-align: middle;
+    width: 100%;
+
 }
 
 .center {
