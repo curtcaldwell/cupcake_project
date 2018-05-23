@@ -1,0 +1,21 @@
+body, html {
+  background-color: rgba(0,0,0,0.1);
+}
+
+.avitar img {
+  width: 15%;
+  height: 15%;
+  float: left;
+  text-align: center;
+}
+ h1 {
+  float: left;
+}
+
+p {
+  text-align: left;
+  background-color: rgba(0,0,0,0.1);
+}
+.photo img {
+  width: 65%;
+}
